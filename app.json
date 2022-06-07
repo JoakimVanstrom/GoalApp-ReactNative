@@ -3,8 +3,12 @@
     "name": "my-app",
     "slug": "my-app",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  }
+    "backgroundColor": "#1e085a",
+    "splash":{
+      "image": "./assets/images/david.png"
+    }
+  },
+  "assetBundlePatterns": [
+    "**/*"
+  ]
 }
